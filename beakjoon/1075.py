@@ -1,3 +1,11 @@
+'''
+No: 1075
+Tier:Bronze 2
+Name:
+Language:Python3
+'''
+
+#Code
 N = int(input())
 F = int(input())
 
