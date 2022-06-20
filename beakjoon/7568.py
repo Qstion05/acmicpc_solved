@@ -1,3 +1,12 @@
+'''
+No:7568
+Tier:Sliver 5
+Name:덩치
+Language:Python3
+'''
+
+#Code
+
 N = int(input())
 arr = [[0] * 2 for i in range(N)]
 rank = []

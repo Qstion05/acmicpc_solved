@@ -1,7 +1,7 @@
 '''
 No: 1075
 Tier:Bronze 2
-Name:
+Name:나누기
 Language:Python3
 '''
 
